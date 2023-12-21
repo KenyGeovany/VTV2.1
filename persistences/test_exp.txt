@@ -1,0 +1,13 @@
+rgb_den.py pdhg_rgb_den_gradient      
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 10000
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 55
+rgb_den.py pdhg_rgb_den_gradient      
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 10000
+rgb_den.py pdhg_rgb_den_gradient      
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 10000
+rgb_den.py pdhg_rgb_den_gradient      
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 10000
+rgb_den.py pdhg_rgb_den_gradient      
+rgb_den.py pdhg_rgb_den_gradient kodim17 37.5 0.01 0.01 0.001 10000
+rgb_deb.py pdhg_rgb_deb_gradient kodim17    0.001 10000
+rgb_deb.py pdhg_rgb_deb_gradient kodim17 0.065 0.01 0.01 0.001 10000

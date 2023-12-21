@@ -1,0 +1,1 @@
+den_g result1.log pdhg_rgb_den_gradient 20 5 7 0.01 0.01 0.001 10000

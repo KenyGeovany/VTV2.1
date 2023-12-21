@@ -1,0 +1,18 @@
+
+-------------------
+20.12.2023-20:39:53
+LOAD:
+    pdhg_rgb_den_gradient       
+LOAD:
+built_bash_g.py den_g result1.log 123456 pdhg_rgb_den_gradient 20 5 7 0.01 0.01 0.001 10000
+CHECK:
+RUN:
+* Actualizando bash...pdhg_rgb_den_gradient.sh Actualizado
+* Creating directory in models/output/...Directory created.
+* Actualizando slurm_general.sh...slurm_general.sh Actualizado.
+* Subiendo bash...Bash subido.
+* Subiendo slurm...Slurm subido.
+Submitted batch job 55174
+* Ejecutando slurm...
+-------------------
+20.12.2023-20:58:33
